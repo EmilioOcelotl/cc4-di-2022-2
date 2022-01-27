@@ -6,15 +6,15 @@
 ## Sesiones
 
 - [ ] Sesión 01 - Repaso
-      - Processing (lenguaje, IDE, motor)
-      - Sistema de coordenadas
-      - for() y matrices
+  - Processing (lenguaje, IDE, motor)
+  - Sistema de coordenadas
+  - for() y matrices
 
 - [ ] Sesión 02 - Geometría Digital
-      - Coordenadas x, y, z
-      - Geometrías ( cubo, esfera )
-      - Cámara
-      - PeasyCam ( https://mrfeinberg.com/peasycam/ ) 
+  - Coordenadas x, y, z
+  - Geometrías ( cubo, esfera )
+  - Cámara
+  - PeasyCam ( https://mrfeinberg.com/peasycam/ ) 
 
 ## Metas de aprendizaje
 
