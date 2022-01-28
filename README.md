@@ -5,15 +5,16 @@
 
 ## Sesiones
 
-- [ ] Sesión 01 - Repaso
+- [x] Sesión 01 - Repaso | [Código](https://gist.github.com/EmilioOcelotl/e7038c57bf39c7140986d4a4f92bbc9c) | [Video](https://drive.google.com/file/d/1LQItFi6RfXEiQy5_Q9t-4IJAtrSkBmnP/view?usp=sharing)
   - Processing (lenguaje, IDE, motor)
   - Sistema de coordenadas
-  - for() y matrices
+  - for() sencillo y matrices
 
 - [ ] Sesión 02 - Geometría Digital
   - Coordenadas x, y, z
   - Geometrías ( cubo, esfera )
   - Cámara
+  - for() indentados 
   - PeasyCam ( https://mrfeinberg.com/peasycam/ ) 
 
 ## Metas de aprendizaje
