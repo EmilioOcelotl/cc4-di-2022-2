@@ -1,3 +1,4 @@
+![portada](https://github.com/EmilioOcelotl/cc4-di-2022-2/blob/main/img/of13.png)
 
 # Código Creativo | Cuarto Semestre | 2022-2
 
@@ -10,11 +11,12 @@
   - Sistema de coordenadas
   - for() sencillo y matrices
 
-- [ ] Sesión 02 - Geometría Digital
-  - Coordenadas x, y, z
-  - Geometrías ( cubo, esfera )
-  - Cámara
-  - for() indentados 
+- [ ] Sesión 02 - 3d y geometrías 
+  - [Coordenadas](https://processing.org/tutorials/p3d) (x, y, z)
+  - [Geometrías](https://processing.org/examples/primitives3d.html) ( cubo, esfera )
+  - for() indentados
+  - [transformaciones](https://processing.org/tutorials/transform2d) y push/pop
+  - [Cámara](https://processing.org/tutorials/p3d/#camera)	     
   - PeasyCam ( https://mrfeinberg.com/peasycam/ ) 
 
 ## Metas de aprendizaje
