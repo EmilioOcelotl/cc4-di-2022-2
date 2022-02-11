@@ -11,13 +11,19 @@
   - Sistema de coordenadas
   - for() sencillo y matrices
 
-- [ ] Sesión 02 - 3d y geometrías 
+- [x] Sesión 02 - 3d y geometrías | [Código](https://gist.github.com/EmilioOcelotl/8c340401323b3ff66f0fb83630095517)
   - [Coordenadas](https://processing.org/tutorials/p3d) (x, y, z)
   - [Geometrías](https://processing.org/examples/primitives3d.html) ( cubo, esfera )
   - for() indentados
   - [transformaciones](https://processing.org/tutorials/transform2d) y push/pop
   - [Cámara](https://processing.org/tutorials/p3d/#camera)	     
   - PeasyCam ( https://mrfeinberg.com/peasycam/ ) 
+
+- [ ] Sesión 03 - 2d y 3d
+  - 3d en una pantalla 2d y 2d en un espacio 3d > impresión
+  - Lectura de imágenes e iteraciones
+  - Luces sencillas
+  - Magnitudes y parámetros en 3d 
 
 ## Metas de aprendizaje
 
