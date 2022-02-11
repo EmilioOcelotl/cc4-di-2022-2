@@ -19,7 +19,7 @@
   - [Cámara](https://processing.org/tutorials/p3d/#camera)	     
   - PeasyCam ( https://mrfeinberg.com/peasycam/ ) 
 
-- [ ] Sesión 03 - 2d y 3d
+- [x] Sesión 03 - 2d y 3d | [Código](https://gist.github.com/EmilioOcelotl/ddd755137e64bc76879c26167187d0ff) | [Video](https://drive.google.com/file/d/1CKR6lCja1fHV3hppGZxrwifRpWHLoaOh/view?usp=sharing) 
   - 3d en una pantalla 2d y 2d en un espacio 3d > impresión
   - Lectura de imágenes e iteraciones
   - Luces sencillas
