@@ -26,12 +26,16 @@
   - Magnitudes y parámetros en 3d 
 
 - [ ] Sesión 04 - Posiciones y composición concreta / sintética 
-  - ¿ Cambio de plataforma ? Objetivo final: generar un objeto que pueda imprimirse y exhibirse
   - Imágenes y profundidad - Revisión y entrega en Brightspace
+  - Guardar posiciones en un arreglo 
   - Composición sintética
     - [modos de color](https://processing.org/reference/colorMode_.html)  
     - función noise en profundidad y color
-  - Guardar posiciones en un arreglo 
+  - ¿ Cambio de plataforma ? Objetivo final: generar un objeto que pueda imprimirse y exhibirse
+
+- [ ] Sesión 05 - Mesh
+
+- [ ] En algún momento: estimaciones de profundidad 
 
 ## Metas de aprendizaje
 
