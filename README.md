@@ -25,6 +25,14 @@
   - Luces sencillas
   - Magnitudes y parámetros en 3d 
 
+- [ ] Sesión 04 - Posiciones y composición concreta / sintética 
+  - ¿ Cambio de plataforma ? Objetivo final: generar un objeto que pueda imprimirse y exhibirse
+  - Imágenes y profundidad - Revisión y entrega en Brightspace
+  - Composición sintética
+    - [modos de color](https://processing.org/reference/colorMode_.html)  
+    - función noise en profundidad y color
+  - Guardar posiciones en un arreglo 
+
 ## Metas de aprendizaje
 
 - Conocer a nivel intermedio las posibilidades de Java 3D mediante Processing
