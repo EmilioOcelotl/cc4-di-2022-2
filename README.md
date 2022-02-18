@@ -25,17 +25,21 @@
   - Luces sencillas
   - Magnitudes y parámetros en 3d 
 
-- [ ] Sesión 04 - Posiciones y composición concreta / sintética 
+- [x] Sesión 04 - Posiciones y composición concreta / sintética | [Código](https://gist.github.com/EmilioOcelotl/a2d285f75b7cffb8db3c880de118adb3) | [Video](https://drive.google.com/file/d/14FH2ZwEoDBxqzaUaTD2apg7gmVve6U6l/view?usp=sharing)
   - Imágenes y profundidad - Revisión y entrega en Brightspace
   - Guardar posiciones en un arreglo 
+
+- [ ] Sesión 05 - noise() y PVector
   - Composición sintética
     - [modos de color](https://processing.org/reference/colorMode_.html)  
     - función noise en profundidad y color
-  - ¿ Cambio de plataforma ? Objetivo final: generar un objeto que pueda imprimirse y exhibirse
+  - PVector para guardar posiciones
+  - Guardar y reconstruir con archivos de texto 
 
-- [ ] Sesión 05 - Mesh
+## Pendientes
 
-- [ ] En algún momento: estimaciones de profundidad 
+- Análisis de imagen y estimaciones de profundidad 
+- ¿ Cambio de plataforma ? Objetivo final: generar un objeto que pueda imprimirse y exhibirse
 
 ## Metas de aprendizaje
 
