@@ -29,12 +29,19 @@
   - Imágenes y profundidad - Revisión y entrega en Brightspace
   - Guardar posiciones en un arreglo 
 
-- [ ] Sesión 05 - noise() y PVector
+- [x] Sesión 05 - noise() y PVector | Código | [Video](https://drive.google.com/file/d/1OpmG4ZyXse1bbjIy5A9d_XlpHomoL-HB/view?usp=sharing)
   - Composición sintética
     - [modos de color](https://processing.org/reference/colorMode_.html)  
     - función noise en profundidad y color
-  - PVector para guardar posiciones
-  - Guardar y reconstruir con archivos de texto 
+  - [PVector](https://processing.org/reference/PVector.html) para guardar posiciones
+  - Guardar y reconstruir con archivos de texto plano 
+
+- [ ] Sesión 06 - Mallas y triángulos
+  - 3d y programas gráficos
+  - [Triangle mesh](https://en.wikipedia.org/wiki/Triangle_mesh)
+  - beginShape y el caso [triangle strip](https://processing.org/reference/beginShape_.html)
+  - vertices como posiciones e interecciones como caras 
+  - Distintas formas de abordar un mesh: el caso de [three.js](https://threejs.org/manual/#en/fundamentals) 
 
 ## Pendientes
 
