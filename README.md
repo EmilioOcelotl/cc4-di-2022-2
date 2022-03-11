@@ -36,13 +36,20 @@
   - [PVector](https://processing.org/reference/PVector.html) para guardar posiciones
   - Guardar y reconstruir con archivos de texto plano 
 
-- [ ] Sesión 06 - Mallas y triángulos
+- [x] Sesión 06 - Mallas y triángulos | [Código](https://gist.github.com/EmilioOcelotl/660b89a794a59b521df9e80582d6c601) | [Video](https://drive.google.com/file/d/1OeZXXRPP3TrWFSecctIJRyaLr1sWtRql/view?usp=sharing) 
   - 3d y programas gráficos
   - [Triangle mesh](https://en.wikipedia.org/wiki/Triangle_mesh)
   - beginShape y el caso [triangle strip](https://processing.org/reference/beginShape_.html)
   - vertices como posiciones e interecciones como caras 
   - Distintas formas de abordar un mesh: el caso de [three.js](https://threejs.org/manual/#en/fundamentals) 
 
+- [ ] Sesión 07 - Mesh y audioreactividad
+  - Repaso del mesh que construimos la sesión pasada
+  - Algunas ideas sobre [sonido](https://processing.org/tutorials/sound), la computadora y Processing 
+  - Análisis de audio y la música como información
+  - [Amplitud](https://processing.org/reference/libraries/sound/Amplitude.html), [forma de onda](https://processing.org/reference/libraries/sound/Waveform.html) y [fft](https://processing.org/reference/libraries/sound/FFT.html)
+  - Bins > posición en z 
+ 
 ## Pendientes
 
 - Análisis de imagen y estimaciones de profundidad 
