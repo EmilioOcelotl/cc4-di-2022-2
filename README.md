@@ -43,7 +43,7 @@
   - vertices como posiciones e interecciones como caras 
   - Distintas formas de abordar un mesh: el caso de [three.js](https://threejs.org/manual/#en/fundamentals) 
 
-- [ ] Sesión 07 - Mesh y audioreactividad
+- [x] Sesión 07 - Mesh y audioreactividad | [Código](https://gist.github.com/EmilioOcelotl/f4bd04fb76ebb0446d0a082c63235d91) | [Video](https://drive.google.com/file/d/1FdHyT0AmjITfPoLq0b_hcl4Nln_arJ8T/view?usp=sharing)
   - Repaso del mesh que construimos la sesión pasada
   - Algunas ideas sobre [sonido](https://processing.org/tutorials/sound), la computadora y Processing 
   - Análisis de audio y la música como información
