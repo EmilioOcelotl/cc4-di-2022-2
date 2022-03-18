@@ -49,7 +49,19 @@
   - Análisis de audio y la música como información
   - [Amplitud](https://processing.org/reference/libraries/sound/Amplitude.html), [forma de onda](https://processing.org/reference/libraries/sound/Waveform.html) y [fft](https://processing.org/reference/libraries/sound/FFT.html)
   - Bins > posición en z 
- 
+
+- [ ] Sesión 08 - Esfera, coordenadas esféricas y coordenadas polares
+  - [Coordenadas geográficas](https://es.wikipedia.org/wiki/Coordenadas_geogr%C3%A1ficas) y la localización de un punto a partir de dos coordenadas ( la tercera, es altitud ) 
+  - [Coordenadas esféricas](https://es.wikipedia.org/wiki/Coordenadas_polares#Coordenadas_esf%C3%A9ricas) y conversión a coordenadas cartesianas
+  - Pasos
+    - PeasyCam
+    - Usamos ángulos: longitud (-180, 180 ) y latitud (-90, 90) y anidamiento de for() para localizar puntos
+    - Iteraciones con resoluciones determinadas y luego mapeo a valores de long lat
+    - Convertir (r, lat, long ) a  (x, y, z)
+      - Theta > lat
+      - Phi > lon
+  
+
 ## Pendientes
 
 - Análisis de imagen y estimaciones de profundidad 
