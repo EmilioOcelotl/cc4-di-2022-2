@@ -50,7 +50,7 @@
   - [Amplitud](https://processing.org/reference/libraries/sound/Amplitude.html), [forma de onda](https://processing.org/reference/libraries/sound/Waveform.html) y [fft](https://processing.org/reference/libraries/sound/FFT.html)
   - Bins > posición en z 
 
-- [ ] Sesión 08 - Esfera, coordenadas esféricas y coordenadas polares
+- [x] Sesión 08 - Esfera, coordenadas esféricas y coordenadas polares | [Código](https://gist.github.com/EmilioOcelotl/0f0984f27bd0242a36e56759732bd3ce) | [Video](https://drive.google.com/file/d/1d4nlFMTGr1vgnt-EgWh3hP-GZlynO8a3/view?usp=sharing)
   - [Coordenadas geográficas](https://es.wikipedia.org/wiki/Coordenadas_geogr%C3%A1ficas) y la localización de un punto a partir de dos coordenadas ( la tercera, es altitud ) 
   - [Coordenadas esféricas](https://es.wikipedia.org/wiki/Coordenadas_polares#Coordenadas_esf%C3%A9ricas) y conversión a coordenadas cartesianas
   - Pasos
