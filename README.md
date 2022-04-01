@@ -60,7 +60,11 @@
     - Convertir (r, lat, long ) a  (x, y, z)
       - Theta > lat
       - Phi > lon
-  
+
+- [x] Sesión 09 | [Video](https://drive.google.com/file/d/1rivLuFqiTSQuWWVREKgA2EEKcyYVKQdk/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/fc54ce415e4fbf77128314f0dbefb478)
+
+   - Modulación: esfera + noise + información de audio
+   - texturas 
 
 ## Pendientes
 
