@@ -66,6 +66,15 @@
    - Modulación: esfera + noise + información de audio
    - texturas 
 
+- [ ] Sesión 10
+
+  - Entrega de ejercicio final con audio e imagen como textura.
+  - Muestra de ejemplos
+  - ¿Tiempo de pasar a otra plataforma?
+    - Three.js, la web y el formato glTF > [ejemplos]()
+    - Texturas con [Hydra](https://hydra.ojack.xyz/)
+  - Para la entrega final: [OBJExport](https://n-e-r-v-o-u-s.com/tools/obj/)
+  
 ## Pendientes
 
 - Análisis de imagen y estimaciones de profundidad 
