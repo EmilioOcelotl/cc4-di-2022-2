@@ -66,7 +66,7 @@
    - Modulación: esfera + noise + información de audio
    - texturas 
 
-- [ ] Sesión 10
+- [x] Sesión 10 | [Video](https://drive.google.com/file/d/1AQQXlGl4Q1zObFSWOreJs9VmpBRA-QPQ/view?usp=sharing) 
 
   - Entrega de ejercicio final con audio e imagen como textura.
   - Muestra de ejemplos
@@ -74,7 +74,16 @@
     - Three.js, la web y el formato glTF > [ejemplos]()
     - Texturas con [Hydra](https://hydra.ojack.xyz/)
   - Para la entrega final: [OBJExport](https://n-e-r-v-o-u-s.com/tools/obj/)
-  
+
+- [ ] Sesión 11
+  - Repaso del último código revisado ( plano )
+  - Ajustes para el siguiente ejercicio ( quitar o comentar audio ) 
+  - Figuras a partir de superficies. Ejemplo: [Steinbach Screw](https://mathworld.wolfram.com/SteinbachScrew.html)
+    - Importante: mover lon y lat dentro de fors anidados
+  - Librería Nervoussystem para capturar obj
+  - Condicionales para capturar
+  - Optativo: agregar noise 
+
 ## Pendientes
 
 - Análisis de imagen y estimaciones de profundidad 
