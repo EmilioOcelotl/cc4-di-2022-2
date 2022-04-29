@@ -80,7 +80,7 @@
   - Ajustes para el siguiente ejercicio ( quitar o comentar audio ) 
   - Figuras a partir de superficies. Ejemplo: [Steinbach Screw](https://mathworld.wolfram.com/SteinbachScrew.html)
     - Importante: mover lon y lat dentro de fors anidados
-  - Librería Nervoussystem para capturar obj
+  - Librería [Nervoussystem](https://n-e-r-v-o-u-s.com/tools/obj/) para capturar obj
   - Condicionales para capturar
   - Optativo: agregar noise 
 
