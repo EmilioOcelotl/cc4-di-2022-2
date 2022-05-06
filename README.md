@@ -75,7 +75,7 @@
     - Texturas con [Hydra](https://hydra.ojack.xyz/)
   - Para la entrega final: [OBJExport](https://n-e-r-v-o-u-s.com/tools/obj/)
 
-- [ ] Sesión 11
+- [x] Sesión 11
   - Repaso del último código revisado ( plano )
   - Ajustes para el siguiente ejercicio ( quitar o comentar audio ) 
   - Figuras a partir de superficies. Ejemplo: [Steinbach Screw](https://mathworld.wolfram.com/SteinbachScrew.html)
@@ -83,6 +83,12 @@
   - Librería [Nervoussystem](https://n-e-r-v-o-u-s.com/tools/obj/) para capturar obj
   - Condicionales para capturar
   - Optativo: agregar noise 
+
+- [ ] Sesión 12
+  - Inquietudes 
+  - Otras formas (de más sencillas a más complejas): [Torus](https://mathworld.wolfram.com/Torus.html), [Elliptic Torus](https://mathworld.wolfram.com/EllipticTorus.html), [Elliptic Paraboloid](https://mathworld.wolfram.com/EllipticParaboloid.html), [Sine Surface](https://mathworld.wolfram.com/SineSurface.html), [Corkscrew surface](https://mathworld.wolfram.com/CorkscrewSurface.html), [Helicoid](https://mathworld.wolfram.com/Helicoid.html), [Catalan Surface](https://mathworld.wolfram.com/CatalansSurface.html), [Astroidal Ellipsoid](https://mathworld.wolfram.com/AstroidalEllipsoid.html)  
+  - [Control](https://www.sojamo.de/libraries/controlP5/) (instalar librería)
+    - Sliders y botones 
 
 ## Pendientes
 
