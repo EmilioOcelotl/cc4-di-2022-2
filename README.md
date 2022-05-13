@@ -84,11 +84,14 @@
   - Condicionales para capturar
   - Optativo: agregar noise 
 
-- [ ] Sesión 12 | [Código](https://gist.github.com/EmilioOcelotl/3af155903c25a17f7da4cda546fd0603) | [Video](https://drive.google.com/file/d/1kgzNkEZAs2qoCaZuwaYzL70N3vK7H8km/view?usp=sharing)
+- [x] Sesión 12 | [Código](https://gist.github.com/EmilioOcelotl/3af155903c25a17f7da4cda546fd0603) | [Video](https://drive.google.com/file/d/1kgzNkEZAs2qoCaZuwaYzL70N3vK7H8km/view?usp=sharing)
   - Inquietudes 
   - Otras formas (de más sencillas a más complejas): [Torus](https://mathworld.wolfram.com/Torus.html), [Elliptic Torus](https://mathworld.wolfram.com/EllipticTorus.html), [Elliptic Paraboloid](https://mathworld.wolfram.com/EllipticParaboloid.html), [Sine Surface](https://mathworld.wolfram.com/SineSurface.html), [Corkscrew surface](https://mathworld.wolfram.com/CorkscrewSurface.html), [Helicoid](https://mathworld.wolfram.com/Helicoid.html), [Catalan Surface](https://mathworld.wolfram.com/CatalansSurface.html), [Astroidal Ellipsoid](https://mathworld.wolfram.com/AstroidalEllipsoid.html)  
   - [Control](https://www.sojamo.de/libraries/controlP5/) (instalar librería)
     - Sliders y botones 
+
+- [ ] Sesión 13 | [Código](https://gist.github.com/EmilioOcelotl/0e35305eee915d3e390abb2a4e26d135) | [Video](https://drive.google.com/file/d/1O7vEPwAVS86njLL2uXXZxfotQzioGdwd/view?usp=sharing)
+  - P5 Control 
 
 ## Pendientes
 
