@@ -90,8 +90,12 @@
   - [Control](https://www.sojamo.de/libraries/controlP5/) (instalar librería)
     - Sliders y botones 
 
-- [ ] Sesión 13 | [Código](https://gist.github.com/EmilioOcelotl/0e35305eee915d3e390abb2a4e26d135) | [Video](https://drive.google.com/file/d/1O7vEPwAVS86njLL2uXXZxfotQzioGdwd/view?usp=sharing)
+- [x] Sesión 13 | [Código](https://gist.github.com/EmilioOcelotl/0e35305eee915d3e390abb2a4e26d135) | [Video](https://drive.google.com/file/d/1O7vEPwAVS86njLL2uXXZxfotQzioGdwd/view?usp=sharing)
   - P5 Control 
+
+- [x] Sesión 14 | Controles y transformaciones
+
+- [ ] Sesión 15 | [Código](https://gist.github.com/EmilioOcelotl/9f4a2a71fbef4f72b9abfc80ce880cbd) | [Video](https://drive.google.com/file/d/1DX-XDG1xjt3LN5Zb6K4qF8haR913zI69/view?usp=sharing)
 
 ## Pendientes
 
